@@ -1,0 +1,80 @@
+# JUPYTER / NOTEBOOK STACK
+# =========================
+jupyterlab
+ipykernel
+ipywidgets
+notebook
+nbconvert
+
+# DATA / I/O
+# =========================
+pandas
+numpy
+scipy
+pyarrow
+polars
+openpyxl
+python-dateutil
+pytz
+
+# VISUALIZATION
+# =========================
+matplotlib
+seaborn
+plotly
+altair
+missingno
+
+# CORE ML
+# =========================
+scikit-learn
+imbalanced-learn
+statsmodels
+
+# Tree/Boosting
+xgboost
+lightgbm
+catboost
+
+# FEATURE ENGINEERING / NLP
+# =========================
+category-encoders
+featuretools
+tldextract
+textblob
+
+# EXPLAINABILITY / INTERPRETABILITY
+# =========================
+shap
+lime
+
+# HYPERPARAM TUNING / EXPERIMENTS
+# =========================
+optuna
+scikit-optimize
+mlflow
+
+# DEEP LEARNING
+# =========================
+torch
+torchvision
+torchaudio
+tensorflow
+transformers
+datasets
+accelerate
+sentencepiece
+
+
+# UTILITIES / DEV EXPERIENCE
+# =========================
+tqdm
+joblib
+pyyaml
+python-dotenv
+
+# local dev tools
+black
+isort
+pre-commit
+nbqa
